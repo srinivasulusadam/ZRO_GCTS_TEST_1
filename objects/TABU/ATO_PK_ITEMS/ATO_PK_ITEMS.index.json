@@ -16,6 +16,20 @@
      }
     ],
     "hash":"sF4ktfErG5J6hdm9aY2gpcnuQZQ="
+   },
+   {
+    "columns":
+    [
+     {
+      "key":"ITEM_TYPE",
+      "value":"CFDF"
+     },
+     {
+      "key":"ITEM_ID",
+      "value":"ZZ1_SS_GCTS_FIELD1"
+     }
+    ],
+    "hash":"Yqoc2pqBgYyZdfF+IyiiMrr+l2k="
    }
   ]
  }
