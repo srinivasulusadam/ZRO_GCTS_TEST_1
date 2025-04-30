@@ -4,5 +4,6 @@
 *&
 *&---------------------------------------------------------------------*
 REPORT zss_rep_conflct4.
-"Version1 Version2
-"Version2
+"Version1 Version2 Version3
+"Version2 Version3
+"Version3
